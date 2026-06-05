@@ -60,7 +60,7 @@ L'application Stargate est un outil d'administration permettant de gérer intég
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-PROFIL)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:louisstenger@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:louisstenger07@gmail.com)
 
 ---
 
