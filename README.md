@@ -1,4 +1,4 @@
-# VESPERXL
+# Vesperxl
 
 Étudiant en 1ère année de BUT Informatique à l'IUT Robert Schuman — Strasbourg.
 
