@@ -65,5 +65,5 @@ L'application Stargate est un outil d'administration permettant de gérer intég
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON-USERNAME&style=flat-square&color=grey" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Vesperxl&style=flat-square&color=grey" alt="profile views"/>
 </p>
