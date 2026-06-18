@@ -45,7 +45,7 @@ L'application Stargate est un outil d'administration permettant de gérer intég
 **Statut :** Terminé
 
 
-### [Remake Inscryption](lien)
+### [Remake Inscryption](https://github.com/vesperxl/Projet-Inscryption)
  
 Ce projet est une recréation textuelle du célèbre jeu de cartes stratégique Inscryption. Il intègre un moteur de jeu au tour par tour complet gérant le placement sur un plateau dynamique, la mécanique complexe de sacrifices (sang et os) pour l'invocation, la résolution des affrontements face à un adversaire automatisé, ainsi qu'une architecture orientée objet robuste permettant la gestion de pouvoirs spéciaux polymorphes.
 
