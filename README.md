@@ -43,7 +43,6 @@ Frameworks et outils :
 L'application Stargate est un outil d'administration permettant de gérer intégralement des missions spatiales, incluant l'affectation des équipages et la définition des objectifs de capture, le suivi complet des budgets et des événements du journal de bord, ainsi que la consultation d'une base de données détaillée sur les planètes et les races extraterrestres répertoriées.
 
 **Technos :** C# | WinForms | SQLite
-**Statut :** Terminé
 
 
 ### [Remake Inscryption](https://github.com/vesperxl/Projet-Inscryption)
@@ -51,7 +50,12 @@ L'application Stargate est un outil d'administration permettant de gérer intég
 Ce projet est une recréation textuelle du célèbre jeu de cartes stratégique Inscryption. Il intègre un moteur de jeu au tour par tour complet gérant le placement sur un plateau dynamique, la mécanique complexe de sacrifices (sang et os) pour l'invocation, la résolution des affrontements face à un adversaire automatisé, ainsi qu'une architecture orientée objet robuste permettant la gestion de pouvoirs spéciaux polymorphes.
 
 **Technos :** Java | POO
-**Statut :** Terminé
+
+### [Emulateur Chip-8](https://github.com/vesperxl/Chip-8-Emulator)
+
+Mon premier émulateur, écrit en C pour approfondir ma connaissance de la programmation bas niveau. J'y ai appris le cycle fetch-decode-execute, le décodage des opcodes et le fonctionnement d'un CHIP-8 en général. Il gère 6 quirks configurables et passe les suites de tests de référence.
+
+**Technos :** C | SDL2
 
 ---
 
