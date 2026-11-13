@@ -21,6 +21,7 @@ Langages et technos croisés en cours et sur mes projets :
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -56,6 +57,12 @@ Ce projet est une recréation textuelle du célèbre jeu de cartes stratégique 
 Mon premier émulateur, écrit en C pour approfondir ma connaissance de la programmation bas niveau. J'y ai appris le cycle fetch-decode-execute, le décodage des opcodes et le fonctionnement d'un CHIP-8 en général. Il gère 6 quirks configurables et passe les suites de tests de référence.
 
 **Technos :** C | SDL2
+
+### [Emulateur Game Boy](https://github.com/vesperxl/Game-Boy-Emulator) *En cours*
+
+Après le CHIP-8, je passe à un vrai système : un émulateur Game Boy (DMG) écrit en C++. L'objectif est de reproduire le fonctionnement de la console : le processeur Sharp SM83, la gestion de la mémoire et des cartouches (MBC), les timers, les interruptions et le rendu graphique du PPU. C'est aussi pour moi l'occasion de structurer un projet bas niveau plus ambitieux en C++ moderne.
+
+**Technos :** C++ | SDL2
 
 ---
 
